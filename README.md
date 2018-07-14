@@ -1,2 +1,2 @@
 # Strand
-strand: an element that forms part of a complex whole
+A simple repository of commands.
