@@ -2,8 +2,9 @@
 A command group designed by TheRoboticon.
 
 > This command group allows the use of Support Tickets in your server and is primarily designed for Support services on busy servers.  
-> Support can review tickets and accept or deny them.  
-> Accepting a ticket allows the user who posted it access to a private Support Room, making it easier to moderate support services and allowing more personal conversations.
+> Support can review tickets in a ticket queue, then accept or deny them with simple commands.  
+> Accepting a ticket allows the user who posted it access to a private Support Room.  
+> This makes it easier to moderate support services and allows personal conversations with users.
 
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
@@ -26,4 +27,4 @@ Commands with choice inputs are denoted as `?command [input1/input2]`
 
 
 
-*Guide Version 1.4.*
+*Guide Version 1.5.*
