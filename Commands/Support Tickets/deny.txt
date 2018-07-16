@@ -1,0 +1,9 @@
+{delete}
+{silent}
+{respond:#support-requests}
+{require:Support}
+{require:#ticket-queue}
+:ticket: $1, we've denied your ticket. Check the FAQ pins :pushpin: to see if your problem could have been answered there or if you broke a rule.
+{!purge startswith $1.user.username 1}
+{!setnick $1 $1.user.username}
+{!role $1 -Pending}
