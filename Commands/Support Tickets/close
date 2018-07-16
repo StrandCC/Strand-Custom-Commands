@@ -1,0 +1,6 @@
+{delete}
+{silent}
+{require:#support-room}
+{!role all -Ticket}
+{!purge 0}
+Support Room reset!
