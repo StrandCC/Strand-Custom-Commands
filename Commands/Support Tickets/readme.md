@@ -24,7 +24,8 @@ Commands with choice inputs are denoted as `?command [input1/input2]`
 `?accept [user]` - Accepts a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
 `?deny [user]` - Denies a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
 `?close` - Resets the support room. Can only be used in the `#support-room` channel.
+`?away` - Locks the `#support-requests` channel.
+`?back` - Reopens the `#support-requests` channel.
 
 
-
-*Guide Version 1.5.*
+*Guide Version 1.6.*
