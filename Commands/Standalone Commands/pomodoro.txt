@@ -1,5 +1,4 @@
 {delete}
+{dm}:tomato: Tick tock! Your pomodoro timer has been set, {user}!
 {silent}
 {!remindme {user} Your pomodoro timer just ended! in 25 minutes}
-{!mute {user} 25m You just set your pomodoro!}
-:tomato: Tick tock! Your pomodoro timer has been set, {user}!
