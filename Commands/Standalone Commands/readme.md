@@ -6,6 +6,7 @@ We assume you are using the default command prefix, `?`.
 Commands with inputs are denoted as `?command [input]`.  
 Commands with choice inputs are denoted as `?command [input1/input2]`
 
+## Commands
 `?pomodoro` - Sets a [Pomodoro Timer](https://francescocirillo.com/pages/pomodoro-technique) for the user.
 
-*Guide Version 1.3*
+*Guide Version 1.4*
