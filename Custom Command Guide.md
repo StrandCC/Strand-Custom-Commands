@@ -66,8 +66,11 @@ Let's say you have a gaming server and you've got a group of people you play wit
 **?ready**
 
 >{delete}
+>
 >{require:Gamemaster}
+>
 >{require:#gaming}
+>
 >{&Gamers}, we're ready to go! It is currently {datetime12}.
 
 **Chat Output**
