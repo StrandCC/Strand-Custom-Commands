@@ -1,5 +1,5 @@
-# So, you're here to learn how Custom Commands work. Well, you've come to the right place!
-
+# Custom Command Guide
+So, you're here to learn how custom commands work. Well, you've come to the right place!
 Before we begin, let's talk about some of the syntax I will be using in this guide.
 
 ## Syntax
@@ -28,6 +28,8 @@ Let's get started!
 
 `{&role}` mentions a specific role.
 
+`{datetime12}` displays the 12-hour time and date in EST.
+
 `{delete}` deletes the calling command.
 
 `{silent}` silences the default response of the bot.
@@ -48,7 +50,7 @@ Let's get started!
 
 *Let's start off with a simple command which tells the user where they are.*
 
-**?location**
+**?location** - outputs the location of the user in the server.
 
 >{delete}  
 >  
@@ -57,3 +59,16 @@ Let's get started!
 **Chat Output**
 
 For each variable in the command, Dyno responded with a specific output. Since I called the command, it used my name (TheRoboticon) with the {user} variable, and since the command was called in the #support channel in the Tutorial Server, those two variables were specified accordingly.  
+
+### Role Functionality
+Let's say you have a gaming server and you've got a group of people you play with. Why not make a command to notify them when you're ready to start?
+
+**?ready**
+
+>{delete}
+>{require:Gamemaster}
+>{require:#gaming}
+>{&Gamers}, we're ready to go! It is currently {datetime12}.
+
+**Chat Output**
+
