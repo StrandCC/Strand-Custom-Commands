@@ -1,0 +1,2 @@
+{delete}
+{!announce {channel} [Link](https://$1) | $2+}
