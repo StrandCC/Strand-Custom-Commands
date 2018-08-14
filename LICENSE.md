@@ -1,6 +1,6 @@
 # Strand License
 
-Strand makes custom commands for Dynobot, the code for which is free for anyone to use. We are NOT a suborganization of Dyno, nor do we have any official connections to them.
+**Strand Custom Commands makes custom commands for Dynobot, the code for which is free for anyone to use. We are NOT a suborganization of Dyno, nor do we have any official connections to them.**
 
 This is free and unencumbered software released into the public domain.
 
@@ -25,5 +25,4 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org>
-[Dyno's Official License](https://premium.dyno.gg/terms) on their software and website.
+For more information, please refer to <http://unlicense.org> or view [Dyno's Official License](https://premium.dyno.gg/terms) on their website.
