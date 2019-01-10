@@ -1,0 +1,4 @@
+{delete}
+{choose:mute;second chance;second chance;second chance;second chance;second chance}
+{!announce {channel} {user} got a {choice}!}
+{!{choice} {user} 3 Roulette}
