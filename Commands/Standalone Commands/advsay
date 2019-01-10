@@ -1,0 +1,5 @@
+{delete}
+{require:serverAdmin}
+{respond:#$1}
+{!announce {channel} Alright, I've sent a message to {#$1} saying "$2+".}
+$2+
