@@ -1,5 +1,5 @@
 # Lost Privileges Module
-Singular commands with no specific relation to each other. Most of these commands are utility-based, but fun commands will be added in the future.
+These commands take some privileges of the specified user for sometime.
 
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
