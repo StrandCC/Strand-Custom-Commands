@@ -1,0 +1,4 @@
+{delete}
+{require:serverMod}
+{!warn $1 Spamming in {channel}}
+{!purge $1+}
