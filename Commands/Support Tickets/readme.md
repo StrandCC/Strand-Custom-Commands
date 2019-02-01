@@ -20,15 +20,14 @@ Commands with choice inputs are denoted as `?command [input1/input2]`
  - Add a message to the `#support-requests` channel explaining its use and pin it.
 
 ## Command Syntax and Usage
-`?ticket [reason]` - Posts a ticket in the ticket queue. A user who has posted a ticket cannot post another until it is reviewed.  
-`?accept [user]` - Accepts a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
-`?deny [user]` - Denies a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
-`?close` - Resets the support room. Can only be used in the `#support-room` channel.  
+* `?ticket [reason]` - Posts a ticket in the ticket queue. A user who has posted a ticket cannot post another until it is reviewed.  
+* `?accept [user]` - Accepts a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
+* `?deny [user]` - Denies a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
+* `?close` - Resets the support room. Can only be used in the `#support-room` channel.  
 
 Currently Bugged:  
-`?away` - Locks the `#support-requests` channel.  
-`?back` - Reopens the `#support-requests` channel.
+* `?away` - Locks the `#support-requests` channel.  
+* `?back` - Reopens the `#support-requests` channel.
 
-Note: There is currently a bug with the `?lock` command and reasons. The ``?away`` and ``?back`` commands are being updated to reflect this.
-
-*Guide Version 1.9*
+### Note
+There is currently a bug with the `?lock` command and reasons. The ``?away`` and ``?back`` commands are being updated to reflect this.
