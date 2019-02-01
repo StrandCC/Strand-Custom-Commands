@@ -9,7 +9,7 @@ A command group designed by TheRoboticon.
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
 Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`
+Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Requirements
 - Three roles, `Pending`, `Ticket`, and `Support`.
