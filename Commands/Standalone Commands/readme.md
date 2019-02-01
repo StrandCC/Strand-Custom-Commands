@@ -10,7 +10,7 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * `?8ball [question]` - Ask the magical 8ball a question!   
 * `?advdm [user] [message]` - Sends a message to the specified user and announces the success message in the channel.   
 * `?advsay [channel] [message]` - Sends a message to the specified user and announces the success message in the current channel.   
-* `?lookup [user]` - Shows information about the specified user.   
+* `?lookup [user]` - Shows information about the specified user (Updated by @TheSilentPro9920).   
 * `?mention [user] [message]` - Mentions the user, shows their status and then says the message you provide.    
 * `?link [url] [message]` - Creates an embed containing a link, along with a message.    
 * `?mention [user] [message]` - Mentions a user with a message, as well as displaying their current status.    
