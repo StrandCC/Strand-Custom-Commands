@@ -7,8 +7,6 @@ Commands with inputs are denoted as `?command [input]`.
 Commands with choice inputs are denoted as `?command [input1/input2]`
 
 ## Commands
-``?say [message]`` - Makes Dyno say your message.  
-``?embed [message]`` - Posts an embed of your message.  
-``?dm [user] [message]`` - Sends a direct message to the specified user.  
-
-*Guide Version 1.0*
+* ``?say [message]`` - Makes Dyno say your message.  
+* ``?embed [message]`` - Posts an embed of your message.  
+* ``?dm [user] [message]`` - Sends a direct message to the specified user.  
