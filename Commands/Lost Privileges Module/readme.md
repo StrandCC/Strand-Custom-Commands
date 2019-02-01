@@ -4,7 +4,7 @@ These commands take some privileges of the specified user for sometime.
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
 Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`
+Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Commands
 * `?badnick [user]` - Changes the nickname of the specified user to "Something Suitable" and dms them.  
