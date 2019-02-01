@@ -4,7 +4,7 @@ The commands listed here are common custom commands that are among the most requ
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
 Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`
+Commands with choice inputs are denoted as `?command [input1/input2]`. 
 
 ## Commands
 * ``?say [message]`` - Makes Dyno say your message.  
