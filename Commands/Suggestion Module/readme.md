@@ -2,9 +2,9 @@
 This module makes making, approving, denying suggestion very easy and organised!
 
 ## Guide Markdown
-We assume you are using the default command prefix, `?`.
-Commands with inputs are denoted as `?command [input]`.
-Commands with choice inputs are denoted as `?command [input1/input2]`.
+We assume you are using the default command prefix, `?`.   
+Commands with inputs are denoted as `?command [input]`.   
+Commands with choice inputs are denoted as `?command [input1/input2]`.   
 
 ## Requirements
 * One role - `Suggestion Manager`.
