@@ -12,8 +12,4 @@ Commands with choice inputs are denoted as `?command [input1/input2]`
 
 ## Commands
 * ``?setinfo [information]`` - Sets the text displayed on your profile.  
-* ``?profile [user]`` - Views a user's profile.  
-
-
-
-*Guide Version 1.0*
+* ``?profile [user]`` - Views a user's profile.
