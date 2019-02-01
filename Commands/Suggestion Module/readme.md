@@ -7,13 +7,13 @@ Commands with inputs are denoted as `?command [input]`.
 Commands with choice inputs are denoted as `?command [input1/input2]`.   
 
 ## Requirements
-* One role - `Suggestion Manager`.
+* One role - `Suggestions Manager`.
 * Two channels - `#suggestions` & `#suggestion-log`.
 * Add a welcome message to `#suggestions` channel explaining how to use the command.
-* Set up the `#suggestion-log` channel to be only accessible to the `Suggestion Manager` role.
+* Set up the `#suggestion-log` channel to be only accessible to the `Suggestions Manager` role.
 
 ## Commands
 * `?suggest [suggestion]` - Makes a suggestion in the `#suggestions` channel.
-* `?approve [user] [suggestion-id]` - Approves a suggestion. Requires the `Suggestion Manager` role.
-* `?deny [user] [suggestion-id] [reason]` - Denies a suggestion. Requires the `Suggestion Manager` role.
-* `?implement [user] [suggestion-id]` - Implements a suggestion. Requires the `Suggestion Manager` role.
+* `?approve [user] [suggestion-id]` - Approves a suggestion. Requires the `Suggestions Manager` role.
+* `?deny [user] [suggestion-id] [reason]` - Denies a suggestion. Requires the `Suggestions Manager` role.
+* `?implement [user] [suggestion-id]` - Implements a suggestion. Requires the `Suggestions Manager` role.
