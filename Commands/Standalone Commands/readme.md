@@ -4,7 +4,7 @@ Singular commands with no specific relation to each other. Most of these command
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
 Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`
+Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Commands
 * `?8ball [question]` - Ask the magical 8ball a question!   
