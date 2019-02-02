@@ -1,7 +1,7 @@
 # Commands
 This folder contains commands and modules dedicating to improving the quality of your server. Just pick the one of your choice!
 
-## List
+## Commands List
 * [Basic Commands](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Basic%20Commmands)  
 * [Lost Privileges Module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Lost%20Privileges%20Module)  
 * [One Word Searches](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/One%20Word%20Searches)   
