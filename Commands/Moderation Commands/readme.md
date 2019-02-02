@@ -8,3 +8,6 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Commands
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
+
+### Note
+More commands will be added soon.
