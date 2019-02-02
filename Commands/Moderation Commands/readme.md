@@ -1,4 +1,4 @@
-# Moderation
+# Moderation Commands
 Got a server going wild? Then these commands are for you! These commands help to efficiently moderate a server with ease.
 
 ## Guide Markdown
