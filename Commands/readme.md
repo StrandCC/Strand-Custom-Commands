@@ -1,7 +1,7 @@
 # Commands
 This folder contains commands and modules dedicating to improving the quality of your server. Just pick the one of your choice!
 
-## Folders
+## Folders List
 * [Basic Commands](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Basic%20Commmands)  
 * [Lost Privileges Module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Lost%20Privileges%20Module)  
 * [Moderation Commands](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Moderation%20Commands)  
@@ -10,3 +10,4 @@ This folder contains commands and modules dedicating to improving the quality of
 * [Standalone Commands](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Standalone%20Commands)   
 * [Suggestion Module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Suggestion%20Module)   
 * [Support Tickets](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Support%20Tickets)   
+* [Verification Module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/tree/master/Commands/Verification%20Module)
