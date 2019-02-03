@@ -1,5 +1,5 @@
 # Verification Module (Images)
-A commmand group designed by Nex
+A commmand group designed by the Strand team.
 > This command group implements an advanced verification system using image verification and codes.
 > By using this, you can easily prevent raids from occuring by creating a system difficult for bots to navigate. 
 
@@ -12,18 +12,20 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * One channel, ``#welcome``, which contains any rules and information joining users should read.
 * Inside ``#welcome``, make sure to tell the user to use ``?dmimage`` to get their code.
 * One role, ``Newcomer``, which has been denied Read Message permissions in all channels except welcome.
-* This role should be given when joining. You will use the Autoroles module for this. \*
+* The ``Newcomer`` role should be given when a user joins. You should use the Autoroles module for this.
 
 ## Command Syntax and Usage
 * ``?dmimage`` - Sends a DM to the user with a random image.
 * ``?[password]`` - Verifies the user.   
-* ``?verify [user]`` - Verifies another user.
-* ``?unverify [user]`` - Unverifies (?) another user.
+* ``?verify [user]`` - Verifies another user. Can be only used by Mods.
+* ``?unverify [user]`` - Unverifies another user. Can be only used by Mods.
 
 *Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.txt) available.
 You should not add ``?[password]`` as an actual custom command.*
 
-
-\* If you need help setting up Dyno modules, you can head to their [support server](https://discord.gg/MRaPFTH).
-
-*Guide Version 1.3*
+## Autoroles Modules Setup
+* Go to https://dyno.gg and click on `Manage A Server`.
+* Select your server.
+* Click on `Autoroles` under the `Module Settings` section.
+* Select the `Newcomers` role in the `Select Role`.
+* Click on `Add`.
