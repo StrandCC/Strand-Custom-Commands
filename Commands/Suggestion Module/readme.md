@@ -12,7 +12,7 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * Add a welcome message to `#suggestions` channel explaining how to use the command.
 * Set up the `#suggestion-log` channel to be only accessible to the `Suggestions Manager` role.
 
-## Commands
+## Command Syntax and Usage
 * `?suggest [suggestion]` - Makes a suggestion in the `#suggestions` channel.
 * `?approve [user] [suggestion-id]` - Approves a suggestion. Requires the `Suggestions Manager` role.
 * `?deny [user] [suggestion-id] [reason]` - Denies a suggestion. Requires the `Suggestions Manager` role.
