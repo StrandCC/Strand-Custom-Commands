@@ -10,6 +10,6 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 ## Requirements
 * The default tag system in Dyno needs to be enabled. Use ``?module tags`` to enable the tag system.  
 
-## Commands
+## Command Syntax and Usage
 * ``?setinfo [information]`` - Sets the text displayed on your profile.  
 * ``?profile [user]`` - Views a user's profile.
