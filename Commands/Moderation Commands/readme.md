@@ -8,6 +8,6 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Command Syntax and Usage
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
-
-### Note
-More commands will be added soon.
+* `?badnick [user]` - Changes the nickname of the specified user to "Something Suitable" and dms them.
+* `?cooldown [user]` - Mutes the specified user for 2 minutes and purges their last 5 messages.
+* `?spam [user] [number]` - Warns the specified user and purges a specified amount of messages. Use for clearing spam.
