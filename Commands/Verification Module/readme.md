@@ -17,10 +17,11 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 ## Command Syntax and Usage
 * ``?dmimage`` - Sends a DM to the user with a random image.
 * ``?[password]`` - Verifies the user.   
-* Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.txt) available. You should not add ``?password`` as an actual command.
+* Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.txt) available.
+* You should not add ``?password`` as an actual command.
 * ``?verify [user]`` - Verifies another user.
 * ``?unverify [user]`` - Unverifies (?) another user.
 
 \* If you need help setting up Dyno modules, you can head to their [support server](https://discord.gg/MRaPFTH).
 
-*Guide Version 1.1*
+*Guide Version 1.2*
