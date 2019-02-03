@@ -14,6 +14,13 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * One role, ``Newcomer``, which has been denied Read Message permissions in all channels except welcome.
 * The ``Newcomer`` role should be given when a user joins. You should use the [Autoroles module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/readme.md#autoroles-modules-setup) for this.
 
+## Autoroles Modules Setup
+* Go to https://dyno.gg and click on `Manage A Server`.
+* Select your server.
+* Click on `Autoroles` under the `Module Settings` section.
+* Select the `Newcomers` role in the `Select Role`.
+* Click on `Add`.
+
 ## Command Syntax and Usage
 * ``?dmimage`` - Sends a DM to the user with a random image.
 * ``?[password]`` - Verifies the user.   
@@ -22,10 +29,3 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 *Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.txt) available.
 You should not add ``?[password]`` as an actual custom command.*
-
-## Autoroles Modules Setup
-* Go to https://dyno.gg and click on `Manage A Server`.
-* Select your server.
-* Click on `Autoroles` under the `Module Settings` section.
-* Select the `Newcomers` role in the `Select Role`.
-* Click on `Add`.
