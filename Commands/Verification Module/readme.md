@@ -21,6 +21,8 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * Select the `Newcomers` role in the `Select Role`.
 * Click on `Add`.
 
+If you need more help with the Autoroles Modules, you can always join [Dyno's discord server](https://discord.gg/dyno) and ask in one of the support channels.
+
 ## Command Syntax and Usage
 * ``?dmimage`` - Sends a DM to the user with a random image.
 * ``?[password]`` - Verifies the user.   
