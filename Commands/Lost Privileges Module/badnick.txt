@@ -1,5 +1,0 @@
-{delete}
-{silent}
-{require:serverMod}
-{dm:$1}$1.user.username, your nickname was changed in {server} by one of our staff members as it did not comply with the server rules. 
-{!setnick $1 Something Suitable}
