@@ -6,7 +6,7 @@ We assume you are using the default command prefix, `?`.
 Commands with inputs are denoted as `?command [input]`.  
 Commands with choice inputs are denoted as `?command [input1/input2]`.
 
-## Commands
+## Command Syntax and Usage
 * `?8ball [question]` - Ask the magical 8ball a question!   
 * `?advdm [user] [message]` - Sends a message to the specified user and announces the success message in the channel.   
 * `?advsay [channel] [message]` - Sends a message to the specified user and announces the success message in the current channel.   
