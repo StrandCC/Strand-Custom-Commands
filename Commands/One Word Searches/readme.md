@@ -6,7 +6,7 @@ We assume you are using the default command prefix, `?`.
 Commands with inputs are denoted as `?command [input]`.  
 Commands with choice inputs are denoted as `?command [input1/input2]`.
 
-## Commands
+## Command Syntax and Usage
 * `?bing [query]` - Uses the bing search engine to search the specified query and then outputs the result in an embedded message.  
 * `?dict [query]` - Uses the wiktionary search engine to search the specified query and then outputs the result in an embedded message.  
 * `?gsearch [query]` - Uses the google search engine to search the specified query and then outputs the result in an embedded message.  
