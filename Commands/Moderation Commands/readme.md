@@ -6,7 +6,7 @@ We assume you are using the default command prefix, `?`.
 Commands with inputs are denoted as `?command [input]`.  
 Commands with choice inputs are denoted as `?command [input1/input2]`. 
 
-## Commands
+## Command Syntax and Usage
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
 
 ### Note
