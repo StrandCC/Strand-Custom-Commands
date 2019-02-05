@@ -13,3 +13,5 @@ You can view all of our commands by heading over to the [Commands](https://githu
 * [Our GitHub Page](https://github.com/Strand-Custom-Commands)
 * [Dyno's Server](https://discord.gg/dyno)
 * [Dyno's Website](https://dyno.gg)
+* [Dyno's Subreddit](https://www.reddit.com/r/Dynodiscord/)
+* [Dyno's Twitter](https://twitter.com/dynodiscord)
