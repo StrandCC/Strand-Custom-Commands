@@ -29,5 +29,5 @@ If you need more help with the Autoroles Modules, you can always join [Dyno's di
 * ``?verify [user]`` - Verifies another user. Can be only used by Mods.
 * ``?unverify [user]`` - Unverifies another user. Can be only used by Mods.
 
-*Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.txt) available.
+*Note that ``?[password]`` is just a placeholder for any of the [10 codes](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/codes.md) available.
 You should not add ``?[password]`` as an actual custom command.*
