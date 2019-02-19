@@ -1,13 +1,15 @@
 THIS IS NOT A COMMAND. THIS IS A LIST OF CODES THAT YOU SHOULD ADD.
 ADD ALL OF THESE CODES AS CUSTOM COMMANDS, WITH THE RESPONSE OF ?[password].
 
-Axis
-Bird
-Drag
-Fade
-Hour
-Lazy
-News
-Poll
-Quit
-Rush
+---
+
+* ?axis
+* ?bird
+* ?drag
+* ?fade
+* ?hour
+* ?lazy
+* ?news
+* ?poll
+* ?quit
+* ?rush
