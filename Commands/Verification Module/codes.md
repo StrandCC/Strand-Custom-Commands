@@ -1,7 +1,5 @@
-THIS IS NOT A COMMAND. THIS IS A LIST OF CODES THAT YOU SHOULD ADD.
-ADD ALL OF THESE CODES AS CUSTOM COMMANDS, WITH THE RESPONSE OF ?[password].
-
----
+**This is not a command. This is a list of codes you have to add.
+Add all of these as custom commands, with the response of `?[password]`.**
 
 * ?axis
 * ?bird
