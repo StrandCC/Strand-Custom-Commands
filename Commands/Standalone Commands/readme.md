@@ -17,7 +17,6 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * `?owner [message]` - Sends a message to the server owner via DMs.    
 * `?status [user]` - Checks the status of the specified user.    
 * `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)!   
-* `?reddit` - Searches the provided subreddit and then outputs the result in an embedded message. 
 * `?dashbaord` - Links to the server's dashbaord.
 
 Currently Bugged:
