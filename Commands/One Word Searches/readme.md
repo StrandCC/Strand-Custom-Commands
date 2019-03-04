@@ -12,7 +12,7 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * `?gsearch [query]` - Uses the google search engine to search the specified query and then outputs the result in an embedded message.  
 * `?wiki [query]` - Uses the wikipedia search engine to search the specified query and then outputs the result in an embedded message.  
 * `?youtube [query]` - Uses the wikipedia search engine to search the specified query and then outputs the result in an embedded message. 
-* `?reddit` - Searches the provided subreddit and then outputs the result in an embedded message. 
+* `?reddit [subreddit]` - Searches the provided subreddit and then outputs the result in an embedded message. 
 
 ### Note
 Due to the way search engines work, only one worded queries can be searched at a time.
