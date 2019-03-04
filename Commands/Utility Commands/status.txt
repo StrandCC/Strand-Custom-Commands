@@ -1,2 +1,1 @@
-{delete}
 **$1.user.username** has the status: **$1.user.status.**
