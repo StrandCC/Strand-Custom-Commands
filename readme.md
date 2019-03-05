@@ -15,10 +15,6 @@
   <a href="https://twitter.com/dynodiscord">
     <img src="https://img.shields.io/twitter/follow/dynodiscord.svg?label=Follow%20Dyno&logo=Twitter&style=for-the-badge">
   </a>
-  
-  <a href="https://www.reddit.com/r/Dynodiscord/">
-    <img src="https://img.shields.io/badge/Dyno's%20Subreddit-Click%20here-green.svg?style=for-the-badge">
-  </a>
 </div>
 
 # Strand
