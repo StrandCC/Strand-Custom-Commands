@@ -1,21 +1,25 @@
 <div align="center">
 
   <a href="https://discord.gg/dyno">
-    <img src="https://img.shields.io/discord/203039963636301824.svg?label=Dyno%27s%20Server&logo=Discord&style=for-the-badge">
+    <img src="https://img.shields.io/discord/203039963636301824.svg?color=9cf&label=Dyno&logo=Discord&style=popout-square">
   </a>
 
   <a href="https://strandcc.tk">
-    <img src="https://img.shields.io/website-up-down-green-red/https/strandcc.tk.svg?label=Our%20Website&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Strand-Website-brightgreen.svg?logo=google-chrome&style=popout-square">
   </a>
 
   <a href="https://dyno.gg">
-    <img src="https://img.shields.io/website-up-down-green-red/https/dyno.gg.svg?label=Dyno%27s%20Website&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Dyno-Website-brightgreen.svg?logo=google-chrome&style=popout-square">
+  </a>
+
+  <a href="https://twitter.com/dynodiscord">
+    <img src="https://img.shields.io/twitter/follow/dynodiscord.svg?label=Follow%20Dyno&logo=Twitter&style=popout-square">
   </a>
   
-  <a href="https://twitter.com/dynodiscord">
-    <img src="https://img.shields.io/twitter/follow/dynodiscord.svg?label=Follow%20Dyno&logo=Twitter&style=for-the-badge">
+  <a href="https://www.reddit.com/r/Dynodiscord">
+    <img src="https://img.shields.io/badge/Dyno-Subreddit-ff4301.svg?logo=reddit&style=popout-square">
   </a>
-</div>
+</div>  
 
 # Strand
 
