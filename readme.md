@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://twitter.com/dynodiscord">
-    <img src="https://img.shields.io/twitter/follow/dynodiscord.svg?label=Follow%20Dyno&logo=Twitter&style=popout-square">
+    <img src="https://img.shields.io/badge/Dyno-Twitter-38A1F3.svg?logo=Twitter&style=popout-square">
   </a>
   
   <a href="https://www.reddit.com/r/Dynodiscord">
