@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://discord.gg/dyno">
-    <img src="https://img.shields.io/discord/203039963636301824.svg?color=7289da&label=Dyno&logo=Discord&style=popout-square">
+    <img src="https://img.shields.io/badge/Dyno-Discord-7289da.svg?logo=Discord&style=popout-square">
   </a>
 
   <a href="https://strandcc.tk">
