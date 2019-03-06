@@ -1,4 +1,4 @@
-# Moderation Commands
+# Utility Commands
 Useful commands for communication and general server improvement.
 
 ## Guide Markdown
