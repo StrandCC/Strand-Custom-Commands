@@ -9,6 +9,7 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 ## Command Syntax and Usage
 * `?8ball [question]` - Ask the magical 8ball a question! 
 * `?gift [user]` - Gifts a random object to the specified user.
+* `?hug [user]` - Hug another user.
 * `?rate [user]` - Rates another user on a scale of 1 - 100. 
 * `?ship [user]` - Ask dyno how much chances of a ship you have with another user. 
 * `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)!
