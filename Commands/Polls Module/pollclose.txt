@@ -6,3 +6,5 @@ Thanks for voting everyone!
 {!mentionable Polls}
 {!role all -I Voted for Option 1!}
 {!role all -I Voted for Option 2!}
+{!cc disable op1}
+{!cc disable op2}
