@@ -1,9 +1,10 @@
 <div align="center">
-  
-   <img src="https://img.shields.io/badge/Folders-10-brightgreen.svg?style=for-the-badge">
-
+  <a href="#">  
+    <img src="https://img.shields.io/badge/Folders-10-brightgreen.svg?style=for-the-badge">
+  </a>
+  <a href="#">
    <img src="https://img.shields.io/badge/Commands-60+-brightgreen.svg?style=for-the-badge">
-
+  </a>
 </div>
 
 # Commands
