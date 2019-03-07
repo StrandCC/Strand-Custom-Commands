@@ -14,5 +14,3 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * ``?setinfo [information]`` - Sets the text displayed on your profile.  
 * ``?profile [user]`` - Views a user's profile.
 * ``?delprofile [user]`` - Deletes a user's profile. Requires Server Moderator.
-
-*Guide Version 1.2*
