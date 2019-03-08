@@ -15,4 +15,4 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
 * `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)!
 
 ### Note
-Moderators & Admins can't use `?roulette` since they're protected to mod commands.
+Moderators & Admins can't use `?roulette` since they're protected from mod commands.
