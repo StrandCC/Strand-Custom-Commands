@@ -1,0 +1,6 @@
+{delete}
+{silent}
+{require:serverMod}
+{!mute $1.user.id $3+}
+{!ban $1.user.id $2 $3+}
+<:dynoSucces:314691591484866560> ***$1.user.username#$1.user.discriminator was muted forever and temp-banned.***
