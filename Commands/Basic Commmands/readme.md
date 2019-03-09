@@ -9,4 +9,4 @@ We assume you are using the default command prefix, `?`.
 * `?embed` - Posts an embed of your message.  
 * `?dm` - Sends a direct message to the specified user.
 
-*To see the correct format of the commands, see the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
