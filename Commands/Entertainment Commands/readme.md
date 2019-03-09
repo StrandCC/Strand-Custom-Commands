@@ -15,4 +15,4 @@ We assume you are using the default command prefix, `?`.
 *To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
-Moderators & Admins can't use `?roulette` since they're protected from mod commands.
+Admins and moderators can't use `?roulette` since they're protected from mod commands.
