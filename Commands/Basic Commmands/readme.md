@@ -2,11 +2,11 @@
 The commands listed here are common custom commands that are among the most requested.
 
 ## Guide Markdown
-We assume you are using the default command prefix, `?`.  
-Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`. 
+We assume you are using the default command prefix, `?`.
 
 ## Command Syntax and Usage
-* ``?say [message]`` - Makes Dyno say your message.  
-* ``?embed [message]`` - Posts an embed of your message.  
-* ``?dm [user] [message]`` - Sends a direct message to the specified user.  
+* `?say` - Makes Dyno say your message.  
+* `?embed` - Posts an embed of your message.  
+* `?dm` - Sends a direct message to the specified user.
+
+*To see the correct format of the commands, see the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
