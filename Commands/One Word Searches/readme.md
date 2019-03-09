@@ -12,7 +12,7 @@ We assume you are using the default command prefix, `?`.
 * `?youtube` - Searches the provided query and then outputs the result in an embedded message. 
 * `?reddit` - Searches the provided subreddit and then outputs the result in an embedded message. 
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
 Due to the way search engines work, only one worded queries can be searched with these commands.
