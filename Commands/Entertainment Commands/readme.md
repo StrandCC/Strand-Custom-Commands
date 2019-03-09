@@ -12,7 +12,7 @@ We assume you are using the default command prefix, `?`.
 * `?ship` - Ask dyno how much chances of a ship you have with another user. 
 * `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)!
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
 Admins and moderators can't use `?roulette` since they're protected from mod commands.
