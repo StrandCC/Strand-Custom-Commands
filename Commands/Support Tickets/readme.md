@@ -8,8 +8,6 @@ A command group designed by TheRoboticon.
 
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.  
-Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`.
 
 ## Requirements
 - Three roles, `Pending`, `Ticket`, and `Support`.
@@ -19,7 +17,7 @@ Commands with choice inputs are denoted as `?command [input1/input2]`.
  - Set up the `#ticket-queue` channel to be only accessible to the `Support` role.
  - Add a message to the `#support-requests` channel explaining its use and pin it.
 
-## Command Syntax and Usage
+## Commands
 * `?ticket [reason]` - Posts a ticket in the ticket queue. A user who has posted a ticket cannot post another until it is reviewed.  
 * `?accept [user]` - Accepts a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
 * `?deny [user]` - Denies a user's ticket. Requires the `Support` role. Can only be used in the `#ticket-queue` channel.  
@@ -30,4 +28,4 @@ Currently Bugged:
 * `?back` - Reopens the `#support-requests` channel.
 
 ### Note
-There is currently a bug with the `?lock` command and reasons. The ``?away`` and ``?back`` commands are being updated to reflect this.
+There is currently a bug with the `?lock` command and reasons. The `?away` and `?back` commands are being updated to reflect this.
