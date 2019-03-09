@@ -15,4 +15,4 @@ We assume you are using the default command prefix, `?`.
 * `?mute-tban` - Mutes and temp-bans the specified user.
 * `?pc-ignore` - Cleans all Dyno command trigger and responses as well adds the specified user to the ignored list.
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
