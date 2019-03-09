@@ -21,7 +21,7 @@ We assume you are using the default command prefix, `?`.
 
 If you need more help with the Autoroles Modules, you can always join [Dyno's discord server](https://discord.gg/dyno) and ask in one of the support channels.
 
-## Command Syntax and Usage
+## Commands
 * `?dmimage` - Sends a DM to the user with a random image.
 * `?[password]` - Verifies the user.   
 * `?verify` - Verifies another user. Can be only used by Mods.
