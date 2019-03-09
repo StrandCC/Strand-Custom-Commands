@@ -16,4 +16,4 @@ We assume you are using the default command prefix, `?`.
 * `?deny` - Denies a suggestion. Requires the `Suggestions Manager` role.
 * `?implement` - Implements a suggestion. Requires the `Suggestions Manager` role.
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
