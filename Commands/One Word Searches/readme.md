@@ -2,17 +2,17 @@
 These commands use various search engines to save the time of user.
 
 ## Guide Markdown
-We assume you are using the default command prefix, `?`.  
-Commands with inputs are denoted as `?command [input]`.  
-Commands with choice inputs are denoted as `?command [input1/input2]`.
+We assume you are using the default command prefix, `?`. 
 
-## Command Syntax and Usage
-* `?bing [query]` - Uses the bing search engine to search the specified query and then outputs the result in an embedded message.  
-* `?dict [query]` - Uses the wiktionary search engine to search the specified query and then outputs the result in an embedded message.  
-* `?gsearch [query]` - Uses the google search engine to search the specified query and then outputs the result in an embedded message.  
-* `?wiki [query]` - Uses the wikipedia search engine to search the specified query and then outputs the result in an embedded message.  
-* `?youtube [query]` - Uses the wikipedia search engine to search the specified query and then outputs the result in an embedded message. 
-* `?reddit [subreddit]` - Searches the provided subreddit and then outputs the result in an embedded message. 
+## Commands
+* `?bing` - Searches the provided query and then outputs the result in an embedded message.  
+* `?dict` - Searches the provided word and then outputs the result in an embedded message.  
+* `?gsearch` - Searches the provided query and then outputs the result in an embedded message.  
+* `?wiki` - Searches the provided query and then outputs the result in an embedded message.  
+* `?youtube` - Searches the provided query and then outputs the result in an embedded message. 
+* `?reddit` - Searches the provided subreddit and then outputs the result in an embedded message. 
+
+*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
 Due to the way search engines work, only one worded queries can be searched at a time.
