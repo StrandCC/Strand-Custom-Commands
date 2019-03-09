@@ -4,7 +4,7 @@ The commands listed here are common custom commands that are among the most requ
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.
 
-## Command Syntax and Usage
+## Commands
 * `?say` - Makes Dyno say your message.  
 * `?embed` - Posts an embed of your message.  
 * `?dm` - Sends a direct message to the specified user.
