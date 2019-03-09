@@ -12,4 +12,4 @@ We assume you are using the default command prefix, `?`.
 * `?profile` - Views a user's profile.
 * `?delprofile` - Deletes a user's profile. Requires Server Moderator.
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
