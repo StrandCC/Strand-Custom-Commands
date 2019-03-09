@@ -27,5 +27,7 @@ Currently Bugged:
 * `?away` - Locks the `#support-requests` channel.  
 * `?back` - Reopens the `#support-requests` channel.
 
+*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+
 ### Note
 There is currently a bug with the `?lock` command and reasons. The `?away` and `?back` commands are being updated to reflect this.
