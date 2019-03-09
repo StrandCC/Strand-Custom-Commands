@@ -15,4 +15,4 @@ We assume you are using the default command prefix, `?`.
 *To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
-Due to the way search engines work, only one worded queries can be searched at a time.
+Due to the way search engines work, only one worded queries can be searched with these commands.
