@@ -13,11 +13,11 @@ We assume you are using the default command prefix, `?`.
 * The `Newcomer` role should be given when a user joins. You should use the [Autoroles module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/readme.md#autoroles-modules-setup) for this.
 
 ## Autoroles Module Setup
-1. Go to https://dyno.gg and click on `Manage A Server`.
-2. Select your server.
-3. Click on `Autoroles` under the `Module Settings` section.
-4. Select the `Newcomers` role in the `Select Role`.
-5. Click on `Add`.
+**1.** Go to https://dyno.gg and click on `Manage A Server`.
+**2.** Select your server.
+**3.** Click on `Autoroles` under the `Module Settings` section.
+**4.** Select the `Newcomers` role in the `Select Role`.
+**5.** Click on `Add`.
 
 ## Commands
 * `?dmimage` - Sends a DM to the user with a random image.
