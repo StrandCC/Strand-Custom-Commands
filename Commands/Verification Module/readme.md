@@ -12,7 +12,7 @@ We assume you are using the default command prefix, `?`.
 * One role, `Newcomer`, which has been denied Read Message permissions in all channels except welcome.
 * The `Newcomer` role should be given when a user joins. You should use the [Autoroles module](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/blob/master/Commands/Verification%20Module/readme.md#autoroles-modules-setup) for this.
 
-## Autoroles Modules Setup
+## Autoroles Module Setup
 * Go to https://dyno.gg and click on `Manage A Server`.
 * Select your server.
 * Click on `Autoroles` under the `Module Settings` section.
