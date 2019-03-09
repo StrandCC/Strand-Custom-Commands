@@ -17,7 +17,7 @@ We assume you are using the default command prefix, `?`.
 * `?op1` - Used to vote for Option 1.
 * `?op2` - Used to vote for Option 2.
 
-*To see the correct format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
 This module is pretty hard to setup and configure so if you need help with anything, join the [Dyno support server](https://discord.gg/dyno).
