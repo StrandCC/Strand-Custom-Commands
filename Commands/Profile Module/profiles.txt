@@ -1,5 +1,6 @@
 {delete}
 {silent}
+{require:serverMod}
 {!customs $1 profile}
 {!customs $1 setinfo}
 <:GreenTick:276107463688847360> | Profile commands have been **$1d**. 
