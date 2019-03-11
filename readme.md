@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://strandcc.tk">
-    <img src="https://img.shields.io/badge/Strand-Website-4285F4.svg?logo=google-chrome&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Strand-Website-4285F4.svg?logo=google-chrome&style=for-the-badge&logoColor=c18ff9&color=6355bc">
   </a>
 
   <a href="https://twitter.com/dynodiscord">
