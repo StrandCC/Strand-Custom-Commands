@@ -8,8 +8,9 @@ We assume you are using the default command prefix, `?`.
 * The default tag system in Dyno needs to be enabled. Use `?module tags` to enable the tag system.  
 
 ## Commands
-* `?setinfo` - Sets the text displayed on your profile.  
-* `?profile` - Views a user's profile.
-* `?delprofile` - Deletes a user's profile. Requires Server Moderator.
+* `?setinfo [information]` - Sets the text displayed on your profile.  
+* `?profile [user]` - Views a user's profile.
+* `?delprofile [user]` - Deletes a user's profile. Requires Server Moderator.  
+* `?profiles [enable/disable]` - Enables/disables the profile module. The ``?delprofile`` command will not be disabled.
 
 *To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
