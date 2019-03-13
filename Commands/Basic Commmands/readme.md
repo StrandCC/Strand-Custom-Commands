@@ -1,5 +1,6 @@
 # Basic Commands
-The commands listed here are common custom commands that are among the most requested.
+Commands designed by the Strand Team.
+> The commands listed here are common custom commands that are among the most requested.
 
 ## Guide Markdown
 We assume you are using the default command prefix, `?`.
