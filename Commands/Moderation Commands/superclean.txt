@@ -1,4 +1,0 @@
-{delete}
-{require:serverMod}
-{!clean}
-{!purge startswith {prefix}}
