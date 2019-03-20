@@ -1,1 +1,0 @@
-{!announce {channel} {user}, [Here's](https://www.youtube.com/results?search_query=$1) your YouTube search result for: **$1**.}
