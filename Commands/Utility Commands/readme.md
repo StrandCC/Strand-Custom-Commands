@@ -12,6 +12,7 @@ We assume you are using the default command prefix, `?`.
 * `?mention` - Mentions the user, shows their status and then says the message you provide. Useful for anonymous pings.
 * `?owner` - Sends a message to the server owner via DMs.
 * `?panel` - Links to a specific module on the dashboard. List of modules: `autoroles`, `customcommands`, `moderation`, `music`, `autoresponder`, `tags`, `actionlog`, `announcements`, `automessage` & `automod`.
+* `?reddit` - Searches the provided subreddit and then outputs the result in an embedded message. 
 * `?pindmods` - Pings the moderators with a message. Requires two roles: `Trusted` & `Moderator` and one channel: `#mod-pings`.
 * `?status` - Checks the status of the specified user.  
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
