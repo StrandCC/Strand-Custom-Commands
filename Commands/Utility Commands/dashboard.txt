@@ -1,0 +1,1 @@
+{user}.username}, here is the dashboard link for {server} - <https://dyno.gg/manage/{server.id}/>.
