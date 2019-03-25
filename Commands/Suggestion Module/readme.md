@@ -1,6 +1,7 @@
 # Suggestion Module
 A suggestion system designed by Nex.
-> This module makes making, approving, denying suggestion very easy and organised!
+
+> This module makes making, approving, and denying suggestions very easy and organised, using an ID system.
 
 ## Guide Markdown  
 We assume you are using the default command prefix, `?`. Commands with inputs are denoted as ``?command [input]``. Commands with choice inputs are denoted as ``?command [input1/input2]``. Commands with optional inputs are denoted as ``?command (input)``.  
