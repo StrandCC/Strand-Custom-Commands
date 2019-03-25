@@ -1,8 +1,10 @@
-# Entertainment Commands
+# Entertainment Commands  
+Commands designed by the Strand Team.  
+
 > General commands for entertainment that'll give everyone some good laughs.
 
-## Guide Markdown
-We assume you are using the default command prefix, `?`.  
+## Guide Markdown  
+We assume you are using the default command prefix, `?`. Commands with inputs are denoted as ``?command [input]``. Commands with choice inputs are denoted as ``?command [input1/input2]``. Commands with optional inputs are denoted as ``?command (input)``.
 
 ## Commands
 * `?8ball [question]` - Ask the Magic 8 Ball a question! 
@@ -15,4 +17,4 @@ We assume you are using the default command prefix, `?`.
 *To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Notes
-Admins and moderators can't use `?roulette` since they're protected from mod commands.
+Admins, Moderators, and Protected Roles can't use `?roulette` since they're protected from mod commands.
