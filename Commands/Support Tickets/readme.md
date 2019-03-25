@@ -7,7 +7,7 @@ A command group designed by TheRoboticon.
 > This makes it easier to moderate support services and allows personal conversations with users.
 
 ## Guide Markdown
-We assume you are using the default command prefix, `?`.  
+We assume you are using the default command prefix, `?`. Commands with inputs are denoted as ``?command [input]``. Commands with choice inputs are denoted as ``?command [input1/input2]``. Commands with optional inputs are denoted as ``?command (input)``.
 
 ## Requirements
 - Three roles, `Pending`, `Ticket`, and `Support`.
