@@ -1,8 +1,9 @@
 # Suggestion Module
-This module makes making, approving, denying suggestion very easy and organised!
+A suggestion system designed by Nex.
+> This module makes making, approving, denying suggestion very easy and organised!
 
-## Guide Markdown
-We assume you are using the default command prefix, `?`.  
+## Guide Markdown  
+We assume you are using the default command prefix, `?`. Commands with inputs are denoted as ``?command [input]``. Commands with choice inputs are denoted as ``?command [input1/input2]``. Commands with optional inputs are denoted as ``?command (input)``.  
 
 ## Requirements
 * One role - `Suggestions Manager`.
@@ -11,9 +12,9 @@ We assume you are using the default command prefix, `?`.
 * Set up the `#suggestion-log` channel to be only accessible to the `Suggestions Manager` role.
 
 ## Commands
-* `?suggest` - Makes a suggestion in the `#suggestions` channel.
-* `?approve` - Approves a suggestion. Requires the `Suggestions Manager` role.
-* `?deny` - Denies a suggestion. Requires the `Suggestions Manager` role.
-* `?implement` - Implements a suggestion. Requires the `Suggestions Manager` role.
+* `?suggest [suggestion]` - Makes a suggestion in the `#suggestions` channel.
+* `?approve [user] [suggestion-id]` - Approves a suggestion. Requires the `Suggestions Manager` role.
+* `?deny [user] [suggestion-id] [reason]` - Denies a suggestion. Requires the `Suggestions Manager` role.
+* `?implement [user] [suggestion-id]` - Implements a suggestion. Requires the `Suggestions Manager` role.
 
-*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
+*To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
