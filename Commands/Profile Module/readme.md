@@ -5,8 +5,8 @@ A command group designed by the TheRoboticon.
 > Users will be able to set a 150-character description and view other profiles, while moderators are able to remove profiles deemed disruptive or unwanted.  
 > This module group features a master switch disabling the system's profiles while still allowing moderators to remove profiles.
 
-## Guide Markdown
-We assume you are using the default command prefix, `?`. 
+## Guide Markdown  
+We assume you are using the default command prefix, `?`. Commands with inputs are denoted as ``?command [input]``. Commands with choice inputs are denoted as ``?command [input1/input2]``. Commands with optional inputs are denoted as ``?command (input)``.
 
 ## Requirements
 * The default tag system in Dyno needs to be enabled. Use `?module tags` to enable the tag system.  
