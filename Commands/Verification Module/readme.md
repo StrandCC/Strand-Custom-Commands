@@ -1,5 +1,6 @@
 # Verification Module
-A commmand group designed by the Strand team.
+A commmand group designed by Nex.
+
 > This command group implements an advanced verification system using image verification and codes.
 > By using this, you can easily prevent raids from occuring by creating a system difficult for bots to navigate. 
 
