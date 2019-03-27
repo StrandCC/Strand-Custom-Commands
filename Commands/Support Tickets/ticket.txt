@@ -4,6 +4,6 @@
 {not:Pending}
 {!role {user} +Pending}
 {user.username} **has submitted a ticket!** :ticket: 
-**Timestamp (EST):** {datetime12} 
+**Timestamp:** {datetime12} 
 **Request:** *$1+*
 _ _
