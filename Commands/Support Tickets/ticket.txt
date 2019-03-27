@@ -2,7 +2,6 @@
 {delete}
 {respond:#ticket-queue}
 {not:Pending}
-{!setnick {user} [T] {user.username}}
 {!role {user} +Pending}
 {user.username} **has submitted a ticket!** :ticket: 
 **Timestamp (EST):** {datetime12} 
