@@ -3,5 +3,5 @@
 {require:Support}
 {require:#support-room}
 {!role all -Ticket}
-{!purge 0}
+{!purge 1000}
 Support Room reset!
