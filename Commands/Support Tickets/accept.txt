@@ -6,4 +6,3 @@
 {choose:$1, we've got your ticket!;Hey, $1! We've accepted your request for a ticket!;Your ticket has been accepted, $1!;Your Ticket is up, $1!;**{user.username}** has accepted your ticket, $1!;Staff Member **{user.username}** just approved your ticket, $1!;$1, Staff Member **{user.username}** has just approved your ticket!}{!role $1 +Ticket, -Pending}
 :ticket: {choice} **Head to** {#support-room} **for a quick conversation with our staff!**
 {!purge startswith $1.user.username 1}
-{!setnick $1 $1.user.username}
