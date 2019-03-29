@@ -1,1 +1,2 @@
-{!tag $1.user.id}
+{!tag pr-$1.user.id}
+{!tag pr-$1.user.id-info}
