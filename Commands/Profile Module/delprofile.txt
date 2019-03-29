@@ -1,5 +1,6 @@
 {delete}
 {silent}
 {require:serverMod}
-{!tag delete $1.user.id}
- <:greentick:478312773286232065> | **Removed profile for $1.user.username, {user.username}.**
+{!tag delete pr-$1.user.id-info}
+{!tag delete pr-$1.user.id}
+ <:greentick:478312773286232065> **| Profile Deleted Successfully for $1.user.username.**
