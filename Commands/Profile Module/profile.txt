@@ -1,2 +1,5 @@
+{!$1+tag pr-{user.id}}
+{!$1+tag pr-{user.id}-info}
+{!$1+tag pr-setinfo}
 {!tag pr-$1.user.id}
 {!tag pr-$1.user.id-info}
