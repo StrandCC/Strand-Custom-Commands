@@ -3,5 +3,4 @@
 {require:serverMod}
 {!cc $1 profile}
 {!cc $1 setinfo}
-{!cc $1 delprofile}
  <:greentick:478312773286232065> **| Set profile module to $1.**
