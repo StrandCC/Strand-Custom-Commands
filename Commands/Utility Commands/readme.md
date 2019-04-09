@@ -17,6 +17,7 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?pindmods [message]` - Pings the moderators with a message. Requires two roles: `Trusted` & `Moderator` and one channel: `#mod-pings`.
 * `?status [user]` - Checks the status of the specified user.  
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
+* `?channelinfo [channel/category]` - Displays informationa about a channel or category.
 
 Currently Bugged:
 * `?pomodoro` - Sets a [Pomodoro Timer](https://francescocirillo.com/pages/pomodoro-technique) for the user.
