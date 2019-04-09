@@ -14,7 +14,6 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?owner [message]` - Sends a message to the server owner via DMs.
 * `?panel (module)` - Links to a specific module on the dashboard. List of modules: `autoroles`, `customcommands`, `moderation`, `music`, `autoresponder`, `tags`, `actionlog`, `announcements`, `automessage` & `automod`.
 * `?reddit [subreddit]` - Searches the provided subreddit and then outputs the result in an embedded message. 
-* `?pindmods [message]` - Pings the moderators with a message. Requires two roles: `Trusted` & `Moderator` and one channel: `#mod-pings`.
 * `?status [user]` - Checks the status of the specified user.  
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
 * `?channelinfo [channel/category]` - Displays information about a channel or category.
