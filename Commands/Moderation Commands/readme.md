@@ -15,6 +15,7 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?mute-kick [user] (reason)` - Mutes and kicks the specified user.
 * `?mute-sban [user] (reason)` - Mutes and softbans the specified user.
 * `?mute-tban [user] [limit] (reason)` - Mutes and temp-bans the specified user.
-* `?pc-ignore [user] [message number] (reason)` - Cleans all Dyno command trigger and responses as well adds the specified user to the ignored list.
+* `?pc-ignore [user] [message number] (reason)` - Cleans all Dyno command trigger and responses as well adds the specified user to the ignored list. 
+* `?pindmods [message]` - Pings the moderators with a message. Requires two roles: `Trusted` & `Moderator` and one channel: `#mod-pings`.
 
 *To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
