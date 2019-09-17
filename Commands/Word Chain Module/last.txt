@@ -1,0 +1,15 @@
+{silent}
+{choose1:**You used the correct word. Your new word has been added!**
+**Phrase:** $1+
+**Last Word:** $0+}
+{choose11:role}
+{choice$1.role.position}
+{!del{choice$1.role.position1} $1.role.name}
+{!ad$0+drole}
+{!ad$0+drole}
+{!ad$0+drole}
+{!add{choice$1.role.position1} $0+}
+{!rol$0+e}
+{!rol$0+e}
+{!rol$0+e}
+{!{choice$1.role.position1} 155149108183695360 $0+}
