@@ -21,6 +21,9 @@
   </a>
   
  </div>
+ 
+<a href="https://zenodo.org/badge/latestdoi/140983962"><img src="https://zenodo.org/badge/140983962.svg" alt="DOI"></a>
+
 
 # Strand
 
