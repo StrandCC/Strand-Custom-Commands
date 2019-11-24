@@ -17,7 +17,8 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?status [user]` - Checks the status of the specified user.  
 * `?superclean` -  Removes all Dyno command triggers and responses from the channel.
 * `?channelinfo [channel/category]` - Displays information about a channel or category.
-* `?screenshare [voice channel]` - Gets the screenshare link for a voice channel.
+* `?screenshare [voice channel]` - Gets the screenshare link for a voice channel. 
+* `?erole [role]` - Adds or deletes a role, depending on whether or not it already exists.
 
 Currently Bugged:
 * `?pomodoro` - Sets a [Pomodoro Timer](https://francescocirillo.com/pages/pomodoro-technique) for the user.
