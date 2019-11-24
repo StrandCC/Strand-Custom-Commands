@@ -1,15 +1,19 @@
-{silent}
-{choose1:**You used the correct word. Your new word has been added!**
-**Phrase:** $1+
+{choose10:silent}
+{choose:!tag lastword}
+{{choice$1.role.position0}}
+{noeveryone}
+{choose13:**You used the correct word. Your new word has been added!**
+**New Phrase:** $1+
 **Last Word:** $0+}
 {choose11:role}
-{choice$1.role.position}
+{choose12:tag}
+{choice$1.role.position3}
 {!del{choice$1.role.position1} $1.role.name}
-{!ad$0+drole}
-{!ad$0+drole}
-{!ad$0+drole}
 {!add{choice$1.role.position1} $0+}
-{!rol$0+e}
-{!rol$0+e}
-{!rol$0+e}
 {!{choice$1.role.position1} 155149108183695360 $0+}
+{!{choice$1.role.position2} create lastword **$0+** is the current last word, with the previous phrase having been the following:
+>>> $1+}
+{!{choice$1.role.position2} edit lastword **$0+** is the current last word, with the previous phrase having been the following:
+>>> $1+}
+{choice600826051014426625}
+{choice123164162141156144}
