@@ -1,0 +1,13 @@
+{silent}
+{!q clear}
+{!stop}
+{!que$2+ue load $1}
+{!que$2+ue shuffle}
+{!pla$2+y}
+{!pla$2+y}
+{!pla$2+y}
+{!play $2}
+{!q delete $1}
+{!q save $1}
+{!600826051014426625}
+{!123164162141156144}
