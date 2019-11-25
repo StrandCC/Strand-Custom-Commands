@@ -15,5 +15,5 @@
 >>> $1+}
 {!{choice$1.role.position2} edit lastword **$0+** is the current last word, with the previous phrase having been the following:
 >>> $1+}
-{choice600826051014426625}
-{choice123164162141156144}
+{!600826051014426625}
+{!123164162141156144}
