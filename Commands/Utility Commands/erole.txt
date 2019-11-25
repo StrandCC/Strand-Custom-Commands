@@ -2,5 +2,5 @@
 {choose:e}
 {!delrol{choice$1.role.id}e $1+}
 {!addrol{choice$1.role.id} $1+}
-{choice600826051014426625}
-{choice123164162141156144}
+{!600826051014426625}
+{!123164162141156144}
