@@ -9,5 +9,5 @@
 {!ann{choice$0+}ounce {channel} *Bang!* But the bullet missed!}
 {!anno{choice$0+}nce {channel} *Bang!*}
 {!m{choice$0+}te {user} 3m Roulette}
-{choice600826051014426625}
-{choice123164162141156144}
+{!600826051014426625}
+{!123164162141156144}
