@@ -1,0 +1,9 @@
+{silent}
+{!q load $1}
+{!q save $2}
+{!q delete $1}
+{!stop}
+{!play}
+<:dynoSuccess:314691591484866560> | **Renamed playlist $1 to $2.**
+{!600826051014426625}
+{!123164162141156144}
