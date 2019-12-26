@@ -10,5 +10,3 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?say [message]` - Makes Dyno say your message.  
 * `?embed [message]` - Posts an embed of your message.  
 * `?dm [user] [message]` - Sends a direct message to the specified user.
-
-*To see these commands in use, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
