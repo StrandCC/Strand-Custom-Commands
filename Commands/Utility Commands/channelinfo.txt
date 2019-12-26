@@ -24,3 +24,5 @@ __Position__: $1.channel.position
 __Created__: $1.channel.createdAt}
 
 {!announce {channel} {choice$1.channel.type}}
+{!235304202832707586}
+{!123164162141156144}

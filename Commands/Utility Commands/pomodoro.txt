@@ -1,4 +1,6 @@
 {delete}
-{dm}:tomato: Tick tock! Your pomodoro timer has been set, {user}!
 {silent}
+{dm}🍅 Tick tock! Your pomodoro timer has been set, {user}!
 {!remindme {user} Your pomodoro timer just ended! in 25 minutes}
+{!600826051014426625}
+{!123164162141156144}

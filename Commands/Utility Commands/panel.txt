@@ -1,1 +1,4 @@
-{!announce {channel} {user.user.name}, here's the [$1](https://dyno.gg/manage/{server.id}/$1) panel link.}
+{require:serverAdmin}
+{!announce {channel} :triangular_flag_on_post: **Here is your [Dyno Settings Page](https://dyno.gg/manage/{server.id}/$1+), {user}.**}
+{!600826051014426625}
+{!123164162141156144}

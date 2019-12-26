@@ -1,3 +1,0 @@
-{dm:$1}
-$2+
-{!announce {channel} {user}, I've sent a dm to $1.user.mention saying "$2+".}
