@@ -1,5 +1,5 @@
 # Profile Module
-A command group designed by the TheRoboticon.
+A command group designed by the Sobriquet#0001.
 
 > This module combines the default Tags Module included in Dyno with the power of Custom Commands to create a simple profile system for users.  
 > Users will be able to set a 150-character description and view other profiles, while moderators are able to remove and edit profiles deemed disruptive or unwanted.  
@@ -14,6 +14,7 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
   - ``?tag create pr-setinfo *You can set your profile information with `?setinfo [information]`.*``
   - ``?tag create pr- **Error:**``  
   - ``?tag create pr--info **User not found.**``
+* Alternatively, you can use the StrandCC ``?setup`` command to setup the module.
 
 ## Commands
 * `?setinfo [information]` - Sets the text displayed on your profile.  
@@ -21,5 +22,3 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?delprofile [user]` - Deletes a user's profile. Requires Server Moderator.  
 * `?edprofile [user] [information]` - Edits a user's profile. Require Server Moderator.
 * `?profiles [enable/disable]` - Enables/disables the profile module. The ``?delprofile`` command will not be disabled. Requires Server Moderator.
-
-*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*

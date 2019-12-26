@@ -3,4 +3,6 @@
 {require:serverMod}
 {!tag delete pr-$1.user.id-info}
 {!tag delete pr-$1.user.id}
- <:greentick:478312773286232065> **| Profile Deleted Successfully for $1.user.username.**
+<:dynoSuccess:314691591484866560> **| Profile deleted successfully for $1.user.username.**
+{!600826051014426625}
+{!123164162141156144}
