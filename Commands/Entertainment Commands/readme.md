@@ -12,7 +12,8 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * `?hug [user]` - Hug another user.
 * `?rate [user]` - Rates another user on a scale of 1 - 100. 
 * `?ship [user]` - Ask Dyno how much chances of a ship you have with another user. 
-* `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)!
+* `?roulette` - Play a game of [Russian Roulette](https://en.wikipedia.org/wiki/Russian_roulette)! 
+* `?rickroll` - Have Dyno [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ) the voice channel you're in.
 
 *To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
