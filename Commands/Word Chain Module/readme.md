@@ -11,8 +11,7 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * You should run the following commands.
   - ``?addrole Start``
   - ``?role 155149108183695360 +Start``
+* Optional: You can use the StrandCC ``?setup`` command to setup this module.
 
 ## Commands
 * ``?last (phrase)`` - If a valid input is entered, the command will set the new phrase and word, storing it as a role on Dyno. If not, the command will output the last phrase and word used.
-
-*To see the correct usage format of the commands, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
