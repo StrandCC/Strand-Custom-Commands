@@ -1,5 +1,5 @@
 # Verification Module
-A commmand group designed by the Roboticon.
+A commmand group designed by Sobriquet#0001.
 
 > This command group implements a lottery system with a thousand combinations, as a well as a master switch for the module.  
 > This module can help you run giveaways within your server.
@@ -16,5 +16,3 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 * ``?draw`` - Selects the winning combination and filters for it. Can only be used in ``#lottery-tickets``.
 * ``?award [user]`` - Gives the winner the lottery role and clears the ``#lottery-tickets`` channel. Can only be used in ``#lottery-tickets``.
 * ``?lottery [enable/disable]`` - Enables or disables the lottery module.
-
-*To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*

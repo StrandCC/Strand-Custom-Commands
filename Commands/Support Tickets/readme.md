@@ -1,5 +1,5 @@
 # Support Tickets
-A command group designed by TheRoboticon.
+A command group designed by Sobriquet#0001.
 
 > This command group allows the use of Support Tickets in your server and is primarily designed for Support services on busy servers.  
 > Support can review tickets in a ticket queue, then accept or deny them with simple commands.  
@@ -26,8 +26,6 @@ We assume you are using the default command prefix, `?`. Commands with inputs ar
 Currently Bugged:  
 * `?away` - Locks the `#support-requests` channel.  
 * `?back` - Reopens the `#support-requests` channel.
-
-*To see the commands in action, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki).*
 
 ### Note
 There is currently a bug with the `?lock` command and reasons. The `?away` and `?back` commands are being updated to reflect this.

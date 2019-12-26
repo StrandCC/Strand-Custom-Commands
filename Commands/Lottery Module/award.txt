@@ -4,4 +4,4 @@
 {require:#lottery-tickets}
 {!role $1.user.id +Lottery Winner}
 {!purge 1000}
-:trophy: $1.user.mention has won the Lottery! Talk to the moderators and claim your prize!
+🏆 $1.user.mention has won the Lottery! Talk to the moderators and claim your prize!
